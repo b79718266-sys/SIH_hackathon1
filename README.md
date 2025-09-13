@@ -1,4 +1,4 @@
-# SIH_hackathon1
+# SIH_hackathon
 Smart Curriculum Activity &amp; Attendance App :
 Problem Description
 
